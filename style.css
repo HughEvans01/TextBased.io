@@ -1,0 +1,25 @@
+body * {
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+    font-family: 'Courgette', cursive;
+}
+
+#title {
+  font-size: 32px;
+}
+
+#text {
+  height: 25%;
+  width: 60%;
+  font-size: 24px;
+}
+#options {
+  display: flex;
+  justify-content:space-around;
+  font-size: 24px;
+}
+
+.option:hover {
+  font-style: oblique;
+}
