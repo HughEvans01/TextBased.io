@@ -18,7 +18,7 @@ var story = {
 "blank":{title:null,text:null,options:[{text:"",link:"end"}]},
 
 "end":{title:"End",text:"This is the end, there are no more options",options:null},
-            };
+};
 
 // Game state machine
 function loadState(state) {
